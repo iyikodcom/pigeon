@@ -1,3 +1,3 @@
 # pigeon
-Güvercinler ile ilgili bilgiler burada toplanacak
+Güvercinler ile ilgili genel proje
 * [Güvercin veritabanı json formatında](https://github.com/iyikodcom/pigeon/blob/main/json/pigeons.json)
